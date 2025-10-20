@@ -1,0 +1,167 @@
+{
+  "title": "Board Game Night Picker",
+  "description": "Let fate decide what game to play tonight!",
+  "allow_regenerate": true,
+  "display_order": [
+    "game_type",
+    "complexity",
+    "player_count",
+    "playtime",
+    "theme",
+    "mechanics",
+    "snack_pairing"
+  ],
+  "categories": {
+    "game_type": {
+      "label": "Game Category",
+      "pick_count": 1,
+      "items": [
+        "Strategy - Deep thinking required",
+        "Party Game - Fun and social",
+        "Cooperative - Work together to win",
+        "Competitive - May the best player win",
+        "Deck Building - Customize your cards",
+        "Euro Game - Resource management focus",
+        "Dungeon Crawler - Adventure and loot",
+        "Deduction - Solve the mystery",
+        "Area Control - Dominate the board",
+        "Dice Game - Roll for glory",
+        "Card Game - Quick and portable",
+        "Legacy - Campaign with permanent changes",
+        "Trivia - Test your knowledge",
+        "Dexterity - Physical skill required",
+        "Word Game - Vocabulary challenge",
+        "Bluffing - Deceive your friends",
+        "Economic - Build your empire",
+        "Abstract - Pure strategy, no theme",
+        "Social Deduction - Find the traitor",
+        "Tile Placement - Build the world"
+      ]
+    },
+    "complexity": {
+      "label": "Complexity Level",
+      "pick_count": 1,
+      "items": [
+        "Gateway - Easy to learn, perfect for newcomers",
+        "Light - Simple rules, plays quickly",
+        "Medium-Light - Some strategy, still accessible",
+        "Medium - Engaging depth, moderate rules",
+        "Medium-Heavy - Substantial strategy required",
+        "Heavy - Complex rules, long playtime",
+        "Expert - For experienced gamers only"
+      ]
+    },
+    "player_count": {
+      "label": "Ideal Player Count",
+      "pick_count": 1,
+      "items": [
+        "2 Players - Best as a duel",
+        "2-4 Players - Classic small group",
+        "3-5 Players - Sweet spot for most games",
+        "4-6 Players - Larger group fun",
+        "5-8 Players - Party size",
+        "6-10 Players - Big gathering",
+        "8+ Players - The more the merrier",
+        "Scales Well - Good at any count",
+        "Team-Based - Even numbers work best"
+      ]
+    },
+    "playtime": {
+      "label": "Expected Playtime",
+      "pick_count": 1,
+      "items": [
+        "15-30 minutes - Quick filler",
+        "30-45 minutes - Casual evening game",
+        "45-60 minutes - Standard length",
+        "1-2 hours - Commit to the session",
+        "2-3 hours - Epic evening",
+        "3-4 hours - Marathon game",
+        "4+ hours - All-day event",
+        "Multiple Sessions - Campaign style"
+      ]
+    },
+    "theme": {
+      "label": "Theme/Setting",
+      "pick_count": 1,
+      "items": [
+        "Fantasy - Dragons, wizards, and quests",
+        "Sci-Fi - Space exploration and aliens",
+        "Horror - Spooky and atmospheric",
+        "Medieval - Castles and kingdoms",
+        "Pirates - Sailing and treasure",
+        "Zombies - Survival horror",
+        "Ancient Civilizations - Build empires",
+        "Modern Day - Contemporary setting",
+        "Steampunk - Victorian tech",
+        "Post-Apocalyptic - After the end",
+        "Wild West - Cowboys and outlaws",
+        "Mythology - Gods and legends",
+        "Abstract - No specific theme",
+        "Historical - Real world events",
+        "Cyberpunk - High tech, low life",
+        "Animals - Cute critters",
+        "Farming - Harvest and trade",
+        "Crime - Heists and mysteries",
+        "Supernatural - Ghosts and magic",
+        "Exploration - Discover new lands"
+      ]
+    },
+    "mechanics": {
+      "label": "Core Mechanics (2 will be chosen)",
+      "pick_count": 2,
+      "items": [
+        "Dice Rolling",
+        "Card Drafting",
+        "Worker Placement",
+        "Auction/Bidding",
+        "Tile Placement",
+        "Hand Management",
+        "Set Collection",
+        "Engine Building",
+        "Role Selection",
+        "Area Control",
+        "Pattern Building",
+        "Push Your Luck",
+        "Simultaneous Action",
+        "Trading/Negotiation",
+        "Memory",
+        "Storytelling",
+        "Real-time Action",
+        "Voting",
+        "Hidden Roles",
+        "Modular Board",
+        "Campaign/Legacy",
+        "Cooperative Play",
+        "Team-Based",
+        "Direct Conflict",
+        "Variable Player Powers"
+      ]
+    },
+    "snack_pairing": {
+      "label": "Recommended Snack Pairing",
+      "pick_count": 1,
+      "items": [
+        "Pizza - Classic game night fuel",
+        "Chips & Dip - Easy finger food",
+        "Pretzels - Won't grease the cards",
+        "Popcorn - Light and shareable",
+        "Candy - Sweet energy boost",
+        "Cheese & Crackers - Classy snacking",
+        "Vegetables & Hummus - Healthy option",
+        "Cookies - Homemade or store-bought",
+        "Nuts & Trail Mix - Protein packed",
+        "Fruit Platter - Refreshing choice",
+        "Sandwiches - Substantial fuel",
+        "Wings - Messy but worth it (napkins required!)",
+        "Nachos - Build-your-own fun",
+        "Brownies - Chocolate fixes everything",
+        "Charcuterie Board - Fancy feast",
+        "Ice Cream - Victory dessert",
+        "Coffee & Pastries - Morning/afternoon games",
+        "Beer & Pretzels - Adult game night",
+        "Tea & Scones - Civilized gaming",
+        "Nothing - Focus on the game!"
+      ]
+    }
+  }
+}

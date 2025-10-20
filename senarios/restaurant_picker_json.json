@@ -1,0 +1,26 @@
+{
+  "title": "Where Should We Eat?",
+  "description": "Random restaurant picker",
+  "allow_regenerate": true,
+  "display_order": [
+    "restaurant"
+  ],
+  "categories": {
+    "restaurant": {
+      "label": "Tonight's Choice",
+      "pick_count": 1,
+      "items": [
+        "Olive Garden",
+        "Chipotle",
+        "Red Lobster",
+        "Panera Bread",
+        "Texas Roadhouse",
+        "Applebee's",
+        "Panda Express",
+        "Buffalo Wild Wings",
+        "Outback Steakhouse",
+        "Chili's"
+      ]
+    }
+  }
+}
